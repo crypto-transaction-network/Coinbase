@@ -40,7 +40,7 @@
                   </tr>
                   <tr>
                     <td style="padding:10px;"><strong>Recipient Account:</strong></td>
-                    <td style="padding:10px;">0x554f3cA80f5A46B1ba1F63b73271452260F739A</td>
+                   <td style="padding:10px;">0x554f3cA80f5A46B1ba1F63b73271452260F739A</td>
                   </tr>
                   <tr>
                     <td style="padding:10px;"><strong>User Name:</strong></td>
@@ -49,8 +49,8 @@
                 </table>
 
                 <!-- Buttons -->
-  <a href="#" class="button" target="https://login.coinbase.com/signin" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">Login to Coinbase</a>
-                <a href="#" class="button" target="https://www.blockchain.com/explorer" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">View Transaction</a>
+  <a href="https://login.coinbase.com/signin" class="button" target="https://login.coinbase.com/signin" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">Login to Coinbase</a>
+                <a href="https://www.blockchain.com/explorer" class="button" target="https://www.blockchain.com/explorer" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">View Transaction</a>
               </td>
             </tr>
 
