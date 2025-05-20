@@ -22,7 +22,7 @@
               <td class="content" align="center" style="padding: 20px 40px;">
                 <h2 style="color:#333333; margin-bottom:10px;">Deposit Received</h2>
                 <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
-                <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>$20,000 BTC</strong></p>
+                <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>$11,000 BTC</strong></p>
 
                 <!-- Transaction Details -->
    <table cellpadding="0" cellspacing="0" style="width:100%; font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
@@ -49,8 +49,8 @@
                 </table>
 
                 <!-- Buttons -->
-  <a href="#" class="button" target="_blank" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">Login to Coinbase</a>
-                <a href="#" class="button" target="_blank" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">View Transaction</a>
+  <a href="#" class="button" target="https://login.coinbase.com/signin" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">Login to Coinbase</a>
+                <a href="#" class="button" target="https://www.blockchain.com/explorer" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">View Transaction</a>
               </td>
             </tr>
 
