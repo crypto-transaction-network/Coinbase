@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="UTF-8">
@@ -58,7 +58,7 @@
   <tr>
               <td align="center" style="padding: 30px 20px; font-size:12px; color:#999999;">
                 © 2025 Coinbase, Inc. All rights reserved.<br/>
-                This is a simulated message for demo purposes only.
+                              ®️ PRIVACY POLICY  
               </td>
             </tr>
           </table>
