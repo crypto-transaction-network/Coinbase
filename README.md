@@ -13,7 +13,7 @@
             <!-- Header -->
             <tr>
               <td align="center" style="padding: 20px;">
-                <img src="https://logos-world.net/wp-content/uploads/2021/02/Coinbase-Logo.png" alt="Coinbase" width="150" style="display:block; max-width:100%;" />
+                <img src="original-c92588b6febf13096fab468625d79f3c~2.png" alt="Coinbase" width="150" style="display:block; max-width:100%;" />
               </td>
             </tr>
 
