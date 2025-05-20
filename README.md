@@ -53,6 +53,8 @@
                 <a href="https://www.blockchain.com/explorer" class="button" target="https://www.blockchain.com/explorer" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px;">View Transaction</a>
               </td>
             </tr>
+    <hr>
+    <img src="image.jpg" alt="Description of image" width="300" height="200">
 
             <!-- Footer -->
   <tr>
