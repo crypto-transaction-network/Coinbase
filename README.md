@@ -24,8 +24,8 @@
             <td align="center" class="content" style="padding: 20px 40px;">
               <h2 style="color:#333333; margin:0 0 10px 0; font-size:24px;">Deposit Received</h2>
               <p style="font-size:16px; color:#555555; margin:0;">You've received a deposit of</p>
-              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>$11,000 (USD)</strong></p>
-             <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>( 0.10432801 ) BTC</strong></p>
+              <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>$11,200 (USD)</strong></p>
+             <p style="font-size:28px; color:#05a5f0; margin:20px 0;"><strong>( 0.10432801 ) Bitcoin</strong></p>
 
               <!-- Transaction Details -->
  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
