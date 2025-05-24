@@ -95,11 +95,3 @@
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
  © 2025 Coinbase, Inc. All rights reserved.<br/>
               ® PRIVACY POLICY
-</td>
-</table>
-   </td>
-   </tr>
-  </table>
-
-</body>
-</html>
