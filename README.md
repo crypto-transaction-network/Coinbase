@@ -50,9 +50,11 @@
                   <td style="padding:10px;">DAVID ALAN GRENWALT</td>
                 </tr>
               </table>
-<hr>
+
+ <hr>
            
- <!-- 4WMMTransaction Details -->
+                                                         <!-- 4WMMTransaction Details -->
+                                                         
  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
                 <tr>
                   <td style="padding:10px;"><strong>Time stamp :</strong></td>
