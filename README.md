@@ -51,7 +51,7 @@
                 </tr>
               </table>
 
- <hr>
+ <br>
            
                                                          <!-- 4WMMTransaction Details -->
                                                          
