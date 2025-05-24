@@ -51,7 +51,7 @@
                 </tr>
               </table>
 
- <br>
+ <hr>
            
                                                          <!-- 4WMMTransaction Details -->
                                                          
@@ -76,6 +76,10 @@
                   <td style="padding:10px;"><strong>Fee Span:</strong></td>
                   <td style="padding:10px;">2 - 101 sat/vB </td>
                 </tr>
+  <tr>
+                  <td style="padding:10px;"><strong>Receiving Adress:</strong></td>
+                  <td style="padding:10px;">0x554f3cA80f5A46B1ba1F63b73271452260F739A</td>
+                </tr> 
               </table>
               
               <!-- Buttons -->
