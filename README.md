@@ -14,8 +14,8 @@
           
 
           <!-- Header -->
-   <tr>
-            <td align="center" style="padding: 20px;">
+ 
+  <td align="center" style="padding: 20px;">
               <img src="original-c92588b6febf13096fab468625d79f3c~2.png" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
             </td>
           </tr>
@@ -94,3 +94,6 @@
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
  © 2025 Coinbase, Inc. All rights reserved.<br/>
               ® PRIVACY POLICY
+
+             
+  <img src="original-c92588b6febf13096fab468625d79f3c~2.png" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
