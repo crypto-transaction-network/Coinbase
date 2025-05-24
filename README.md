@@ -10,10 +10,10 @@
     <tr>
       <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
-</tr>
+  
           
 
-          <!-- Header -->
+                       <!-- Header -->
  
   <td align="center" style="padding: 20px;">
               <img src="original-c92588b6febf13096fab468625d79f3c~2.png" alt="Coinbase" width="150" style="display:block; max-width:100%; height:auto;" />
