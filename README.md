@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <meta charset="UTF-8">
@@ -9,10 +8,10 @@
 
   <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f6f9fc; padding:20px 0;">
     <tr>
-      <td align="center">
+      <td align="center"> </td>
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
-</td>
-          </tr>
+</tr>
+          
 
           <!-- Header -->
    <tr>
