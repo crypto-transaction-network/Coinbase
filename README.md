@@ -57,7 +57,7 @@
                                                          
  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-size:14px; color:#333; background-color:#f2f6fa; border-radius:6px; margin:20px 0;">
                 <tr>
-                  <td style="padding:10px;"><strong>Time stamp :</strong></td>
+                  <td style="padding:10px;"><strong>Time stamp:</strong></td>
                   <td style="padding:10px;">2025-04-22 23:59:59 UTC</td>
                 </tr>
                 <tr>
@@ -66,7 +66,7 @@
                 </tr>
                 <tr>
                   <td style="padding:10px;"><strong>Miner:</strong></td>
-                  <td style="padding:10px;">Fountry USA</td>
+                  <td style="padding:10px;">Fountry USA----------------------------------------------</td>
                 </tr>
                 <tr>
                   <td style="padding:10px;"><strong>Version:</strong></td>
@@ -77,7 +77,7 @@
                   <td style="padding:10px;">2 - 101 sat/vB </td>
                 </tr>
   <tr>
-                  <td style="padding:10px;"><strong>Receiving Adress:</strong></td>
+                  <td style="padding:10px;"><strong>Receiving Address:</strong></td>
                   <td style="padding:10px;">0x554f3cA80f5A46B1ba1F63b73271452260F739A</td>
                 </tr> 
               </table>
