@@ -1,4 +1,4 @@
-1 
+
 <html>
 <head>
   <meta charset="UTF-8">
@@ -11,6 +11,8 @@
     <tr>
       <td align="center">
         <table role="presentation" cellpadding="0" cellspacing="0" width="600" class="container" style="width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
+</td>
+          </tr>
 
           <!-- Header -->
    <tr>
@@ -87,9 +89,7 @@
  <a href="https://login.coinbase.com/signin" style="font-size:16px; font-weight:bold; background-color:#0052ff; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">Login to Coinbase</a>
 
  <a href="https://www.blockchain.com/explorer" style="font-size:16px; font-weight:bold; background-color:#00c292; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; margin:10px 5px;" class="button" target="_blank">View Transaction</a>
-            </td>
-          </tr>
-
+           
           <!-- Footer -->
    <tr>
            <td align="center" style="padding: 30px 20px; font-size:12px; color: green;">
