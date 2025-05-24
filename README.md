@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <H2>Deposit Notification</H2>
+  <H2 align="center"> Deposit Notification</H2>
  </head>
 <body style="margin:0; padding:0; background-color:#f6f9fc; font-family: Arial, sans-serif;">
 
